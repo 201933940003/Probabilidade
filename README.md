@@ -5,4 +5,4 @@ Docente: Rafael Bayma
 
 Data: 18/02/2024
 
-## [Probabilidade](Probabilidade/Página-Inicial.html)
+## [Probabilidade - Página](Probabilidade/Página-Inicial.html)
